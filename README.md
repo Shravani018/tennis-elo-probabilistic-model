@@ -14,7 +14,7 @@ Probabilistic modeling pipeline for tennis match outcomes using an Elo rating fr
 ## Visual overview
 
 <p align="center">
-  <img src="Streamlit_Demo.gif" width="800" />
+  <img src="./output/Streamlit_Demo.gif" width="800" />
 </p>
 
 *Streamlit dashboard for exploring Elo-based match probabilities, Monte Carlo convergence, and tournament simulations.*
