@@ -58,9 +58,4 @@ Potential extensions include:
 
 All outputs produced by this project are **probabilistic simulations**, not deterministic predictions.  
 The model is intended for analytical and exploratory purposes.
-
----
-
-## Author
-
 Built as a personal data science project exploring **sports analytics and probabilistic modeling**.
