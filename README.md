@@ -1,10 +1,10 @@
 # Tennis Match Outcome Modeling with Elo & Monte Carlo 🎾
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Model-Elo%20Rating-blue" />
+  <img src="https://img.shields.io/badge/Model-Elo%20Rating-purple" />
   <img src="https://img.shields.io/badge/Focus-Probabilistic%20Modeling-success" />
   <img src="https://img.shields.io/badge/Evaluation-Calibration%20%26%20LogLoss-informational" />
-  <img src="https://img.shields.io/badge/Interface-Streamlit-lightgrey" />
+  <img src="https://img.shields.io/badge/Interface-Streamlit-yellow" />
 </p>
 
 Probabilistic modeling pipeline for tennis match outcomes using an Elo rating framework with surface-specific adjustments and Monte Carlo simulation. The project focuses on calibrated probability estimates, uncertainty analysis, and transparent evaluation.
