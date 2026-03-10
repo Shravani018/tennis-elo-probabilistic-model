@@ -1,4 +1,4 @@
-# Tennis Match Outcome Modeling with Elo & Monte Carlo 🎾
+# 🎾 Tennis Match Outcome Modeling with Elo & Monte Carlo 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Model-Elo%20Rating-purple" />
