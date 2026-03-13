@@ -32,7 +32,7 @@ Probabilistic modeling pipeline for tennis match outcomes using an Elo rating fr
 ---
 ## Dataset
 
-Source: [URL](https://github.com/JeffSackmann/tennis_atp.git)
+Source: [Jeff Sackmann: ATP Match Data](https://github.com/JeffSackmann/tennis_atp.git)
 
 ---
 ## Assumptions
